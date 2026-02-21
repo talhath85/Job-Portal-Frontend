@@ -156,7 +156,3 @@ Contributions are welcome! To contribute:
 3. Commit your changes: `git commit -m "Add your feature"`
 4. Push to your branch: `git push origin feature/your-feature-name`
 5. Open a Pull Request
-
-## License
-
-This project is open source. See the [LICENSE](LICENSE) file for details.
